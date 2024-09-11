@@ -23,4 +23,3 @@ To use QRMaker, you need to have Node.js installed. Follow these steps to set up
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/QRMaker.git
-   cd QRMaker
